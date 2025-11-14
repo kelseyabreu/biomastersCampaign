@@ -2,7 +2,7 @@
 ## "The First BioMaster" - Story Mode (5-10 Hours)
 
 **Version:** 3.3 
-**Last Updated:** 2025-11-01
+**Last Updated:** 2025-11-13
 
 ---
 
