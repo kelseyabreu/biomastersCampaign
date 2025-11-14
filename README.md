@@ -1,7 +1,7 @@
 # BioMasters TCG - Complete Campaign Flow
 ## "The First BioMaster" - Story Mode (5-10 Hours)
 
-**Version:** 3.3 
+**Version:** 1.4 
 **Last Updated:** 2025-11-13
 
 ---
