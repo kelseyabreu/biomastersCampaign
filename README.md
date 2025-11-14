@@ -64,7 +64,7 @@ balance between all living things."
 to the mightiest predator, held a unique power. A power that could be channeled,
 understood, and harmonized."
 
-[Visual: Species cards appearing, ecosystems forming]
+[Visual: Species appearing, ecosystems forming]
 
 "Through deep connection with the natural world, BioMasters learned
 to summon the essence of species, to understand their roles in the 
