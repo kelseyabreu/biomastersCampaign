@@ -182,7 +182,6 @@ PLAYER (thinking):
 
 [The dream returns]
 
-```
 [Bedroom - 3:47 AM]
 
 PLAYER (breathing hard, internal monologue):
