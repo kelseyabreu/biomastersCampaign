@@ -1,8 +1,8 @@
 # BioMasters TCG - Complete Campaign Flow
 ## "The First BioMaster" - Story Mode (5-10 Hours)
 
-**Version:** 1.4 
-**Last Updated:** 2025-11-13
+**Version:** 1.5 
+**Last Updated:** 2025-11-24
 
 ---
 
@@ -82,6 +82,106 @@ VOICE:
 [Title card: "THE FIRST BIOMASTER"]
 ```
 
+---
+
+## Scene 2: The Weight of the World
+**Duration:** 3-5 minutes
+**Format:** Cinematic sequence showing daily life and growing unease
+
+```
+[Morning - Player's apartment]
+
+You wake up, disoriented. The dream lingers like morning fog.
+
+You go through your morning routine. Shower. Breakfast. The dream
+fades to background noise.
+
+[Transition: Commute - bus/train/car/walk]
+
+Your day continues. The usual rhythm of life.
+
+[Time skip to lunch break]
+
+---
+
+[Lunch break - You sit alone with your phone]
+
+You scroll through social media. The endless feed.
+
+A headline catches your eye:
+
+📱 SCREEN SHOWS:
+**"Scientists Warn: We Have 10 Years to Prevent Irreversible
+Ecosystem Collapse"**
+
+You pause. Read the first paragraph. Feel that familiar knot in
+your stomach.
+
+PLAYER (thinking):
+"Ten years. That's not very long. I don't know how that's gonna get solved..."
+
+[You keep scrolling]
+
+Memes. Random photos. Ads for things you don't need.
+
+Another article appears:
+
+📱 SCREEN SHOWS:
+**"1 Million Species Face Extinction"**
+
+The knot tightens.
+
+[Your thumb hovers over the article]
+
+[You close the app instead]
+
+PLAYER (thinking):
+"I care. I do. But what can I actually do? I'm not a scientist.
+I'm not rich. I'm not special. I'm just... me. One person.
+
+What difference could I possibly make?"
+
+[You put your phone down, stare at your lunch without eating]
+
+Some miniscule amount of guilt settles in. Familiar. Constant. Helpless.
+
+---
+
+[Afternoon - Back to your day]
+
+Back to the routine. The usual tasks. The usual distractions.
+
+That miniscule guilt has faded.
+
+But the knot remains.
+
+---
+
+[Evening - Your place]
+
+You try to relax. Scroll through streaming services.
+
+Nothing looks good.
+
+You try to read. Eyes bCan't focus.
+
+The dream is still there, in the back of your mind.
+
+PLAYER (thinking):
+"Why does it bother me so much?"
+
+[You get ready for bed]
+
+[You lie down, close your eyes]
+
+[Screen fades to black]
+
+---
+
+[That night...]
+
+[The dream returns]
+
 ```
 [Bedroom - 3:47 AM]
 
@@ -105,17 +205,17 @@ PLAYER (yawning, putting phone down):
 "These phrases keep repeating... I'll search them up
 when I get a better night's rest."
 
-[Player lies back down, troubled but exhausted]
+[Player lies back down, troubled and exhausted]
 ```
 
 ---
 
-## Scene 2: The Search (Interactive)
-**Duration:** 5-10 minutes  
+## Scene 3: The Search (Interactive)
+**Duration:** 5-10 minutes
 **Format:** Point-and-click, search engine mini-game
 
 ```
-[Next morning - player at computer with coffee]
+[Next morning - player at computer with drink]
 
 PLAYER:
 "Okay. Let's see if any of these phrases mean anything."
@@ -125,7 +225,7 @@ PLAYER:
 
 ```
 SEARCH 1: "BioMasters"
-Results: 
+Results:
 - BioMasters Protein Supplements
 - BioMasters Inc. (defunct biotech company from 2015)
 - BioMasters Gardening Tools
@@ -145,10 +245,10 @@ Results:
 
 PLAYER: "Come on..."
 
-SEARCH 3: "what is a BioMaster first"
+SEARCH 3: "Reddit: what is a BioMaster?"
 Results:
-- "What is a Master's degree in Biology?"
-- "First steps to becoming a biologist"
+- "Reddit website results: What is a Master's degree in Biology?"
+- Ads: "First steps to becoming a biologist"
 - Video game character guides
 - Random forum posts
 [Nothing matches]
@@ -257,7 +357,7 @@ PLAYER:
 
 ---
 
-## Scene 3: Contact & Learning (Montage + Tutorial)
+## Scene 4: Contact & Learning (Montage + Tutorial)
 **Duration:** 45-60 minutes  
 **Format:** Text communication + Interactive tutorial
 
@@ -344,11 +444,11 @@ Ready to meet Mr. BioMaster."
 PLAYER (internal monologue):
 "I should practice before meeting him. Don't want to look like an idiot."
 
-[Player plays several matches against:]
+[Player can invite and play several matches against:]
 - Family member
 - Friend online
 - Roommate
-- Local opponent at coffee shop
+- Local opponent at board game shop
 
 [Each opponent quickly grasps the game]
 
@@ -364,7 +464,7 @@ you to see patterns that were always there."
 
 ---
 
-## Scene 4: The Meeting 
+## Scene 5: The Meeting 
 **Duration:** 10-20 minutes  
 **Format:** Cutscene with dialogue choices
 
@@ -386,7 +486,7 @@ Mr.BioMaster (standing):
 
 Mr.BioMaster:
 "That's Echo. Had him since I was ten. He's twenty-three now.
-African Greys can live over a hundred years, so we've got
+African Greys can live to about eighty years old, so we've got
 a long friendship ahead. Don't worry, he's quiet during important conversations."
 
 ECHO (the parrot, mimicking Mr.BioMaster's voice perfectly):
@@ -414,22 +514,22 @@ Mr.BioMaster:
 you 'had the dream.' - exactly what did you experience?"
 
 PLAYER:
-"I had a dream. Three nights in a row, starting three days ago.
+"I've had the same dream every day in a row, starting last week.
 Words floating everywhere: 'BioMasters,' over and over.
 Then a voice telling me about understanding nature, the delicate balance,
 the essence of species... the entire story from your blog.
 It felt urgent. Like something needed me to understand."
 
-[Mr.BioMaster's soda can stops mid-air] (fix this)
+[Mr.BioMaster's soda can stops mid-air]
 
 Mr.BioMaster (quietly):
-"Three days ago... You started having them three days ago...hmm"
+"Last week... You started having them last week...hmm"
 
 PLAYER:
 "Yes. Why?"
 
 Mr.BioMaster (sets cup down slowly):
-"I updated my blog three days ago. Just a small edit to fix a typo."
+"I updated my blog last week. Just a small edit to fix a typo."
 
 Mr.BioMaster (stares at player):
 "You said the entire story. From my blog. Word for word?"
@@ -486,7 +586,7 @@ played out in my dream like a movie. Exactly as you wrote it."
 
 Mr.BioMaster (sits down slowly):
 "I only dreamt the word. You dreamt what I created from the word.
-Three days ago, I updated my blog. That same day, you started
+Last week, I updated my blog. That same day, you started
 dreaming the mythology I wrote two years ago."
 
 PLAYER:
@@ -495,7 +595,7 @@ PLAYER:
 Mr.BioMaster:
 "I don't know. I've been building this platform for two years,
 working constantly, barely had time to think about the original dreams.
-And then three days ago, I update the blog with a typo fix, and suddenly
+And then last week, I update the blog with a typo fix, and suddenly
 someone across the country is dreaming the story I created?"
 
 ECHO (the parrot, bobbing):
@@ -556,8 +656,9 @@ working on for the past year."
 [Reveals a handheld scanner device]
 
 Mr.BioMaster:
-"BioMaster Scanner. Reads bio-signatures, identifies species,
-tracks ecosystem data, and learns patterns to use for later upgrade. It's how I test the game's accuracy -
+"BioMaster Scanner. Prints cards. Visualizes the game on screen or through mini hologram. 
+Reads bio-signatures, identifies species,tracks ecosystem data, 
+and learns patterns to use for later upgrade. It's how I test the game's accuracy -
 I take it to real ecosystems and verify the card interactions
 match reality."
 
@@ -565,11 +666,32 @@ PLAYER:
 "That's incredible."
 
 Mr.BioMaster:
-"It's functional but limited. Right now it can only read
-animals - birds, mammals, reptiles, fish. I'm working on
-upgrading it to read plant signatures, and eventually
-complex organisms like fungi and lots more.
-But that's months away."
+"It's functional but limited. Right now it only reads animal signatures—
+birds, mammals, reptiles, fish. Their neural activity, movement patterns,
+behavioral responses. I'm working on upgrading it to handle different
+types of biological communication."
+
+PLAYER:
+"Different how?"
+
+Mr.BioMaster:
+"Plants don't have nervous systems. They communicate through
+chemical signals, electrical impulses in their tissues, root networks.
+Completely different biological language. And fungi? Even stranger—
+they form vast mycelial networks underground, share information
+across entire forests through chemical exchanges. 
+
+It's not more complex than animals, just... fundamentally different.
+Animals process information through neurons and brains. Plants and fungi
+process information through chemical gradients, electrical signals,
+and network connections. Different hardware, same purpose—responding
+to their environment, communicating, adapting.
+
+The scanner was built to read neural signatures. Now I need to teach it
+to translate non-neural biological communication—chemical signals,
+root network data, mycelial information exchange. That's what I've been
+coding for months. But that's months away."
+
 
 PLAYER:
 "Why are you showing me this?"
@@ -621,15 +743,60 @@ ECHO (quietly):
 "Find the old ones. Learn the truth."
 
 PLAYER:
-"Why can't you go?"
+"Why can't you go? Or... why can't we go together?"
 
-Mr.BioMaster (gestures to the office, the computer, the workspace):
-"I'm building this. The platform, the game, the infrastructure.
-Someone needs to stay here, maintain the system, upgrade the scanner,
-provide research support. Besides, I still have a real job paying the bills!"
+Mr.BioMaster (leans back, thoughtful):
+"I wish we could. But here's the reality: I'm ONE person.
 
-[He pauses, looking tired for the first time]
+I'm spending all my time building this platform, upgrading the
+scanner, researching and reviewing these all of the local species data I've collected. The tech work alone is
+full-time. Plus, I still have a real job paying the bills.
 
+But more importantly im hoping we could work together. 50/50."
+
+PLAYER:
+"50/50?"
+
+Mr.BioMaster:
+"I do the research and tech. You do the field work.
+
+I stay here, maintain the system, upgrade the scanner remotely,
+provide research support, analyze the data you send back, and
+keep building the platform.
+
+You travel, test the scanner in real ecosystems, battle local
+experts to spread the game and gather feedback, collect biological
+data, and search for these ancient organisms.
+
+We both share what we learn. Equal partnership. Equal contribution.
+
+Without us working together, the solutions stay theoretical.
+I feel like I can build something useful, but if no one takes
+it into the field, it defeats the purpose."
+
+PLAYER:
+"So you're not just... sending me off to do your work?"
+
+Mr.BioMaster (firmly):
+"No. I'm asking you to be my partner. My equal.
+
+Have you ever looked at some documentary about the loss of diversity or 
+news about the chaos in the world and felt something? That
+helpless guilt. I felt it for years before I understood something
+crucial:
+
+You don't need a PhD or any degree or certificate to make a difference. You don't need to be
+rich or famous or have all the answers.
+
+You just need to want to make a difference. To try. Every day move forward knowing that regardless if your 
+change is big or small, it matters.
+
+And honestly? I would truly like for someone to join me on this finally. 
+I don't want to do this alone. The field work,
+the human connection, the actual testing - that's not something
+I can do from behind a computer screen."
+
+[He pauses, looking tired but determined]
 "I've been working on this for two years straight. Barely sleeping.
 Obsessed with understanding why that word wouldn't leave me alone.
 But Echo... Echo should go with you. He's been cooped up here for years,
@@ -649,30 +816,61 @@ PLAYER:
 Mr.BioMaster:
 "The scanner. We're trying to interact with ancient organisms.
 If Echo can understand the game just by watching, maybe other
-animals can too or maybe they understand it differently than us. 
-Having him with you might help us figure out if we can actually 
+animals can too or maybe they understand it differently than us.
+Having him with you might help us figure out if we can actually
 communicate with Elder Beings."
 
 ECHO (excited, bobbing):
 "Echo goes! Echo helps! Echo smart bird! Echo adventure bird!"
 
 Mr.BioMaster:
-"On your travels you'd be helping me field test the game too.
+"On your travels, you'd be helping me field test the game too.
 Every region you visit, every species you encounter, every battle
-you play - it helps me understand if the game's educational model works.
-At worst, you're spreading ecological knowledge and helping
-me refine an educational tool. At best... maybe we find answers
-about why we had these dreams. Why we're connected to this word."
+you play - it helps me understand if the game's educational model
+works.
 
-PLAYER (considering):
-"So I travel, use the scanner, battle local experts using the game,
-build the database, and maybe find ancient organisms who know something?"
+At worst, we're spreading ecological knowledge and helping refine
+an educational tool.
+
+At best... maybe we find answers about why we had these dreams.
+Why we're connected to this word.
+
+PLAYER (hesitating):
+"I... I don't know. This is a lot. I travel, use the scanner, battle local experts using the game,
+build the database, and maybe find ancient organisms who know something.
+
+What if I'm not the right
+person for this? What if I fail?"
 
 Mr.BioMaster:
-"Exactly. Look - I know this sounds insane. Trust me, I know.
+"Then you'll have tried. That's more than most people can say. Truthfully it's a big 
+
+Look - I know this sounds insane. Trust me, I know.
 But you came here because you had an impossible dream.
 I created this because I had an insane dream.
-We're already in impossible territory."
+We're already in impossible territory.
+
+And when you're old, looking back, you'll know: I fought. I gave
+everything I had. I made a difference where I could.
+
+Isn't that better than wondering 'what if'?"
+
+PLAYER (quiet):
+"What if I say no? What happens then?"
+
+Mr.BioMaster (honest):
+"Then I keep working on this. I'll find another way. Maybe another
+person. Maybe I'll eventually make time to do the field work myself.
+
+The platform will still get built. The scanner will still get
+upgraded. My resolve wont falter.
+
+But it'll be slower. Harder. And we might never know why you
+dreamed my exact words before ever reading them.
+
+We might never find out what connected us."
+
+[Long pause]
 
 [Mr.BioMaster holds out the scanner]
 
@@ -681,7 +879,8 @@ Mr.BioMaster:
 that dream meant nothing?"
 
 PLAYER:
-"I'm in. When do we start?" (maybe add some decision or hesitation)
+"I'm in. I'll make some important calls back home first. 
+When do we start?"
 
 Mr.BioMaster:
 "Right now. But first - I need to know you can actually play.
@@ -699,7 +898,7 @@ Mr.BioMaster (standing, grinning):
 
 ---
 
-## Scene 5: Boss Battle - Mr. BioMaster
+## Scene 6: Boss Battle - Mr. BioMaster
 **Duration:** 15 minutes
 **Format:** Multi-phase battle
 
@@ -784,7 +983,7 @@ MR. BIOMASTER:
 - **BioMaster Scanner (Level 1)**
 - **Echo joins as companion**
 - **World Map unlocked**
-- **North America accessible**
+- **North America accessible (generic to the player/reader)**
 
 ---
 
@@ -819,15 +1018,16 @@ MR. BIOMASTER:
 
 **Progression Gates:**
 - **Continent Elder Unlocked After:** 3 or 4 countries completed for that continent
-- **Next Continent Unlocked After:** Elder Being defeated
+- **Next Continent Unlocked After:** Earned Elder Beings recognition
 
 ---
 
 ## 🎮 Country Battle Format
 
 **Each Country Contains:**
-- 3 difficulties against local experts (ecologists, conservationists, safari guides) (easy, medium, hard)
+- 3 difficulties against local species experts (ecologists, conservationists, safari guides) (easy, medium, hard)
 - Lore about the ecosystem from the experts
+- Locals grasp it quickly because it's their ecosystem
 - Each battle unlocks species cards relevant to that ecosystem/deck/biome
 - Environmental facts and conservation status
 - Scanner database building
@@ -856,7 +1056,10 @@ PLAYER:
 Would you be willing to play a match with me?"
 
 DR. OCHIENG:
-"A card game about ecosystems? I'm intrigued. Let's see what you've got."
+"A card game about ecosystems? I'm intrigued. How do I play? Where can I get cards?"
+
+PLAYER:
+"I've scanned a few local species so far. Build a deck around them. Let's see what you've got."
 
 BATTLE START:
 Opponent: Dr. Amara Ochieng (Savanna Specialist)
@@ -895,8 +1098,7 @@ UNLOCKED:
 
 SCANNER UPDATE:
 "Mammal data: 37 species logged
-Ecosystem patterns: Savanna dynamics improved
-Ready for more complex organisms soon!"
+Ecosystem patterns: Savanna dynamics improved!"
 
 DR. OCHIENG:
 "The African Lion demonstrates apex predator efficiency.
@@ -923,32 +1125,32 @@ ECHO (sagely):
 DAKOTA:
 "You must be the one Mr. BioMaster mentioned.
 Says you're on some kind of quest. Challenging
-ancient beings. Seeking answers about 'BioMasters.'"
+ancient beings. Seeking answers about The First BioMaster"
 
 PLAYER:
 "You know Mr. BioMaster?"
 
 DAKOTA:
 "We've corresponded for years. He's been helping us
-develop educational programs for the park. When he said
-someone was traveling the world seeking ecological wisdom,
-I had to meet you."
+develop educational programs for the park in exchange for feedback on his
+educational sideproject. When he said someone was traveling the world 
+seeking ecological wisdom, I had to meet you."
 
 PLAYER:
-"Have you heard of 'BioMasters' before?"
+"Have you heard of The First BioMaster then?"
 
 DAKOTA:
-"Can't say I have. But I've been protecting this ecosystem
-for twenty years. I've seen things. Ancient animals with
-unusual awareness. Patterns in nature that seem almost...
-intentional. Before I share what I know, prove you understand
+"Can't say I have. Not anything besides from what the game talks about. 
+But I've been protecting this ecosystem for twenty years. 
+I've seen things. Old animals with unusual awareness. 
+Patterns in nature that seem almost... intentional.
+Before I share what I know, prove you understand
 what it means to protect an ecosystem."
 ```
 
 **Battle Format:**
 1. **TCG Battle** (Hard difficulty) - Yellowstone apex predators deck
 2. **Bingo Speed Challenge** - Identify Yellowstone species quickly
-3. **Final TCG Battle** (Very Hard) - Full ecosystem deck with wolves, elk, bears
 
 **After Victory:**
 
@@ -975,16 +1177,10 @@ DAKOTA:
 Keep seeking. You're on the right path. The old-timers in
 the conservation world... we've all seen things we can't explain.
 Animals that seem to understand more than they should.
-Maybe you'll find your answers."
-
-[Dakota hands over a badge]
-
-DAKOTA:
-"North American Ecology Master. You've earned it.
-Good luck on your journey."
+Maybe you'll find your answers. Good luck on your journey."
 ```
 
-**REWARD:** North American Master Badge + Special Card: "Yellowstone Wolf Pack"
+**REWARD:** Special Booster Pack: "Yellowstone Wolf Pack"
 
 ---
 
@@ -1068,7 +1264,7 @@ Let us play. I will show you what eight decades teaches."
 
 ANCIENT PARROT:
 "You understand well. But you seek something more, yes?
-You seek answers. Continue your journey. Seek the younger ones first.
+You seek answers. Continue your journey. Seek the young first.
 They will teach you survival. Then seek the ancient ones.
 They will teach you wisdom."
 ```
@@ -1076,7 +1272,7 @@ They will teach you wisdom."
 **REVELATION:** Animals CAN understand the game! Echo wasn't unique!
 **SCANNER UPGRADE:** Level 2 - "Animal Communication Interface"
 **POINTS TO:** Other animals across biomes
-**Unlocked Card:** Ancient Parrot (Wisdom +0, Special: "Reveals hidden connections")
+**Unlocked Card:** Ancient Parrot (Special: "Reveals hidden connections")
 
 
 ---
@@ -1442,26 +1638,37 @@ It was alive during the Roman Empire!"
 ANCIENT BAOBAB (via scanner, vast and patient):
 "I am the Tree of Life. I store water. I provide shelter.
 I feed animals. I have stood for two and a half millennia.
-Civilizations have risen around me. Droughts came. Floods came. I remain.
-Not through strength alone, but through generosity."
+Civilizations have risen around me. Droughts came. Floods came. I remain."
 
 PLAYER:
-"What have you learned in all that time?"
+"How have you endured so long?"
 
 BAOBAB:
-"Give. Endure. Adapt. I give water in drought. I give fruit in famine.
-I give shelter in storms. This is how I survive. By being needed.
-By being part of the web. Your 'game' shows this. Connection. Dependence."
+"Deep roots. My taproot reaches water others cannot find.
+My trunk stores thousands of liters—water for years of drought.
+My bark is thick—fire cannot kill me. Wind cannot topple me.
+I survive the harshest conditions through resilience, not luck."
+
+PLAYER:
+"And the animals? The ecosystem depends on you."
+
+BAOBAB:
+"Yes. BECAUSE I am resilient, I can be generous.
+My fruit feeds when others cannot bear. My hollows shelter in storms.
+My flowers bloom for pollinators. But make no mistake—
+I do not survive because I give. I give because I survive.
+Resilience first. Generosity follows. This is the order of life."
 
 [BATTLE: Savanna/Rainforest Biome deck]
-[Demonstrates understanding of keystone species and ecosystem services]
+[Demonstrates understanding of keystone species and survival strategies]
 
 [After victory]
 
 BAOBAB:
-"You understand reciprocity. The balance of giving and receiving.
-Seek the giant sequoias in California,USA. 
-They are taller. They are older. They have seen more."
+"You understand. Strength enables service. Resilience enables generosity.
+One cannot give from an empty well. Survive first. Then sustain others.
+Seek the giant sequoias in California, USA.
+They are taller. They grow in fire. They too understand resilience."
 ```
 
 **Reward:** Keystone species wisdom
@@ -1479,8 +1686,8 @@ They are taller. They are older. They have seen more."
 [Massive sequoia forest, one tree towers above all others]
 
 MR. BIOMASTER (via scanner):
-"The plant communication interface is working perfectly!
-This tree has been standing for over 3,000 years!"
+"The plant communication interface is activating. Woah,
+this tree has been standing for over 3,000 years!"
 
 ANCIENT SEQUOIA (via scanner, slow and deep like roots):
 "I have stood here for 3,200 years. I have recorded every drought,
@@ -1499,7 +1706,7 @@ I remain. I witness. Each ring in my trunk is a year
 of your history, written in wood."
 
 PLAYER:
-"Do you know about BioMasters? About the calling?"
+"Do you know anything about The First BioMaster? Or of any BioMasters?"
 
 SEQUOIA:
 "I can not say that I have, but I know of those who listen. Those who understand connections.
@@ -1665,18 +1872,51 @@ CREOSOTE:
 [After victory]
 
 CREOSOTE:
-"Go to Pando. The trembling giant. 47,000 stems. One root. One mind.
-They are older than us. Much older. They have answers.
-Seek them in Utah. Fishlake National Forest.
-Coordinates: 38.5255° N, 111.7520° W."
+"You have proven your understanding. You are ready for the eldest.
+We learn of distant places through those who pass through our desert."
+
+PLAYER:
+"What do you mean?"
 
 CREOSOTE:
-"Go to Pando. Complete your journey. Learn the truth.
-We will continue growing. We will endure."
+"Birds. Every season, they migrate. Ravens, hawks, waterfowl.
+They rest in our shade, drink from desert springs, then continue.
+Always northeast. Always toward the mountains.
+
+Through their behaviors, we learn. They carry traces of distant places.
+Soil on their feet. Seeds in their feathers. Scents of other ecosystems.
+They come from a place where aspens grow in vast numbers.
+Where golden leaves tremble as one. Where many stems share one root.
+
+Over centuries of migrations, we have learned:
+There is something ancient there. Older than us. Much older.
+The birds connect us, though we have never met.
+
+Seek the mountains to the northeast. Where aspens quake.
+The eldest one waits there."
+
+[Scanner's communication link activates]
+
+PLAYER:
+"Mr. BioMaster, are you getting this?"
+
+MR. BIOMASTER (via scanner, excited):
+"Every word! Migratory birds between the Mojave and the mountains...
+aspens that 'share one root'... one organism with many stems...
+Let me cross-reference—"
+
+[Sound of rapid typing]
+
+MR. BIOMASTER:
+"Got it! I had a feeling, but... yeah. It's Pando, The trembling giant. 
+That's exactly one of the organisms I've been researching for this project!"
+
+CREOSOTE:
+"Go to Pando. Complete your journey. Learn the truth."
 ```
 
 **REVELATION:** Clonal organism points to Pando
-**Reward:** Exact coordinates to Pando
+**Reward:** Location to Pando
 **Points to:** Pando (80,000 years old) - Final encounter
 
 ---
@@ -2220,7 +2460,7 @@ It's a state of being. A level of awareness."
 - Mr.BioMaster, two years ago, dreaming the word "BioMasters"
   [A moment of connection to the web]
 
-- The player, three days ago, dreaming the full story
+- The player, multiple weeks ago, dreaming the full story
   [A moment of recognition and connection]
 
 [Understanding crystallizes:]
@@ -2727,9 +2967,7 @@ Mr.BioMaster:
 
 PLAYER:
 "In seconds. And Pando felt mine. Felt yours through me.
-That's when Pando explained - what we've been calling dreams
-are actually a calling. Life reaching out during crisis to
-those who can respond."
+That's when Pando explained."
 
 Mr.BioMaster (processing):
 "So our dreams weren't just dreams."
@@ -2741,7 +2979,7 @@ individuals. It comes to create networks. Teachers who
 teach teachers. Understanding that spreads."
 
 Mr.BioMaster (sitting down slowly):
-"So we're not special."
+"So we're not special?"
 
 PLAYER:
 "We are. Because we answered. Because we sought.
